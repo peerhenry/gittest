@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "8067f940-cc68-48f8-a632-0f1c95d340fd",
+            "Value": {
+                "id": "d582998c-342a-428c-a21e-dfd4b3ca98ac",
+                "resourcePath": "scripts\\scr_tim_newfeature\\scr_tim_newfeature.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8aae100b-7325-4d3a-8f76-39f63bbd31e8",
             "Value": {
                 "id": "8c0e2dc2-1559-49d6-89f3-348654d6aee1",
@@ -229,12 +237,21 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "fdd2d2d3-fb28-4ebb-854e-abc7691f6f98",
+            "Value": {
+                "id": "dce00f01-80c4-46d5-a174-49c2cc79c7fd",
+                "resourcePath": "views\\fdd2d2d3-fb28-4ebb-854e-abc7691f6f98.yy",
+                "resourceType": "GMFolder"
+            }
         }
     ],
     "script_order": [
         "765524e4-a50c-4c6e-aaf7-2a9a4fa1a946",
         "b1dd7787-7355-409b-99f4-69cb964ea1ef",
-        "dc670e6c-3666-4650-8576-d54dc18d4d8c"
+        "dc670e6c-3666-4650-8576-d54dc18d4d8c",
+        "8067f940-cc68-48f8-a632-0f1c95d340fd"
     ],
     "tutorial": ""
 }
